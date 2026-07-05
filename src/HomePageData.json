@@ -2,44 +2,40 @@
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
     "imgLink": "/images/section/hero-img.jpg",
-    "title": "Edward <br /> Davis",
+    "title": "Zachary <br /> Navea",
     "subTitle": "Hello, I’m",
-    "designation": "Visual Designer"
+    "designation": "Grade 12 - Cirrus"
   },
   "aboutData": {
     "imgLink": "/images/section/about.jpg",
     "cvPdf": "/images/Resume.pdf",
-    "title": "Hi There! I'm Edward Davis",
-    "subtitle": "Visual Designer",
-    "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
+    "title": "Hi There! I'm Zachary Navea",
+    "subtitle": "STEM Student",
+    "text": "I am 17 years old. I am a STEM student who is interested in coding and technology. I enjoy learning how things work, especially when it involves computers, programs, and logical thinking. Coding helps me practice creativity because I can create something useful from simple ideas. I also like problem solving because it challenges me to think carefully, analyze situations, and find the best solution.",
     "details": [
       {
         "title": "Birthday",
-        "info": "May 07, 1990"
+        "info": "May 04, 2009"
       },
       {
-        "title": "Phone",
-        "info": "+1 876-369-9009"
+        "title": "School",
+        "info": "Calamba Institute"
       },
       {
-        "title": "Email",
-        "info": "devis@example.com"
+        "title": "Grade and Section",
+        "info": "Grade 12 - Cirrus"
       },
       {
-        "title": "From",
-        "info": "2661 Hich meadow lane bear creek"
+        "title": "Strand",
+        "info": "STEM"
       },
       {
-        "title": "Language",
-        "info": "English, Germanic"
+        "title": "Hobby",
+        "info": "Coding"
       },
       {
-        "title": "Freelance",
-        "info": "Available"
-      },
-      {
-        "title": "Freelance",
-        "info": "Available"
+        "title": "Interest",
+        "info": "Problem Solving"
       }
     ]
   },
@@ -47,48 +43,48 @@
     "services": [
       {
         "imgLink": "/images/icon/icon1.png",
-        "title": "Sketches",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Notebook",
+        "text": "A notebook is a solid because it has a definite shape and volume. It has physical properties such as color, thickness, size, and texture. The paper inside it is also matter because it occupies space and has mass.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "200"
       },
       {
         "imgLink": "/images/icon/icon2.png",
-        "title": "UI/UX Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Pen",
+        "text": "A pen is also a solid because it has a fixed shape and volume. It has physical properties such as length, color, weight, and smooth texture. The ink inside the pen is a liquid because it flows and takes the shape of its container.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "300"
       },
       {
         "imgLink": "/images/icon/icon3.png",
-        "title": "Product Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Air I Breathe",
+        "text": "Air is a gas because it does not have a fixed shape or volume. It spreads out and fills the space around it. Even though we cannot see air, it is still matter because it has mass and occupies space.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "400"
       },
       {
         "imgLink": "/images/icon/icon4.png",
-        "title": "App Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Table",
+        "text": "A table is a solid because it keeps its shape and volume. It has physical properties such as hardness, size, weight, color, and texture. It is matter because it has mass and occupies space.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "500"
       },
       {
         "imgLink": "/images/icon/icon5.png",
-        "title": "Motion Graphics",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Chair",
+        "text": "A chair is a solid object that has a fixed shape and volume. It has properties such as height, color, texture, and mass. It demonstrates matter because it occupies space and can be measured.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "600"
       },
       {
         "imgLink": "/images/icon/icon6.png",
-        "title": "Responsive Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Ice Cube",
+        "text": "An ice cube is a solid form of water because it has a definite shape and volume. When it melts, it becomes liquid water, showing that matter can change from one state to another.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "700"
@@ -96,47 +92,47 @@
     ]
   },
   "skillData": {
-    "title": "All the skills that I have in that field of work are mentioned.",
-    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
+    "title": "My skills and interests help me as a STEM student.",
+    "text": "These skills allow me to become more creative, logical, and confident in solving problems. Coding helps me create useful projects, while problem solving helps me think carefully and find better solutions.",
     "skills": [
       {
-        "title": "Photoshop",
+        "title": "Coding",
         "progress": "95%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "title": "Motion Graphic",
-        "progress": "75%",
+        "title": "Problem Solving",
+        "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
       },
       {
-        "title": "Adobe XD",
-        "progress": "90%",
+        "title": "Logical Thinking",
+        "progress": "88%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
       },
       {
-        "title": "UX Design",
+        "title": "Editing",
         "progress": "85%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
       },
       {
-        "title": "HTML",
+        "title": "Research",
         "progress": "80%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
       },
       {
-        "title": "Digital Marketing",
-        "progress": "90%",
+        "title": "Creativity",
+        "progress": "87%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
@@ -148,8 +144,8 @@
       {
         "imgLink": "/images/portfolio/portfolio1.jpg",
         "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "About Me",
+        "subTitle": "Zachary Navea | STEM Student",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
@@ -157,8 +153,8 @@
       {
         "imgLink": "/images/portfolio/portfolio2.jpg",
         "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Notebook",
+        "subTitle": "Solid matter with definite shape and volume",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
@@ -166,8 +162,8 @@
       {
         "imgLink": "/images/portfolio/portfolio3.jpg",
         "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Pen",
+        "subTitle": "Solid body with liquid ink inside",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
@@ -175,8 +171,8 @@
       {
         "imgLink": "/images/portfolio/portfolio4.jpg",
         "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Air",
+        "subTitle": "Gas that has mass and occupies space",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
@@ -184,8 +180,8 @@
       {
         "imgLink": "/images/portfolio/portfolio5.jpg",
         "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Table",
+        "subTitle": "Solid object with physical properties",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
@@ -193,8 +189,8 @@
       {
         "imgLink": "/images/portfolio/portfolio6.jpg",
         "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Ice Cube",
+        "subTitle": "Solid matter that can change state",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
@@ -202,8 +198,8 @@
       {
         "imgLink": "/images/portfolio/portfolio1.jpg",
         "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Matter",
+        "subTitle": "Anything that has mass and occupies space",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
@@ -211,8 +207,8 @@
       {
         "imgLink": "/images/portfolio/portfolio2.jpg",
         "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Measurement",
+        "subTitle": "Describing matter using numbers and units",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
@@ -220,8 +216,8 @@
       {
         "imgLink": "/images/portfolio/portfolio3.jpg",
         "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Atomic Theory",
+        "subTitle": "Atoms are the building blocks of matter",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
@@ -229,8 +225,8 @@
       {
         "imgLink": "/images/portfolio/portfolio4.jpg",
         "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Fundamental Particles",
+        "subTitle": "Protons, neutrons, and electrons",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
@@ -238,8 +234,8 @@
       {
         "imgLink": "/images/portfolio/portfolio5.jpg",
         "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Science in Daily Life",
+        "subTitle": "Connecting lessons to everyday objects",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
@@ -247,110 +243,11 @@
       {
         "imgLink": "/images/portfolio/portfolio6.jpg",
         "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Reflection",
+        "subTitle": "Understanding matter more deeply",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "/images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
       }
     ]
   },
@@ -382,44 +279,44 @@
     "informations": [
       {
         "imgLink": "/images/blog/blog1.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "latest trends in Graphic design according to you?",
+        "designation": "Zachary Navea",
+        "date": "Science Portfolio",
+        "title": "What Is Matter?",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "/images/blog/blog2.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
+        "designation": "Zachary Navea",
+        "date": "STEM Learning",
+        "title": "Matter in My Everyday Life",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "/images/blog/blog3.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "Trends in Graphic design according to you?",
+        "designation": "Zachary Navea",
+        "date": "Science Reflection",
+        "title": "Atomic Theory and Fundamental Particles",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "/images/blog/blog1.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
+        "designation": "Zachary Navea",
+        "date": "Measurement",
+        "title": "Why Measurement Is Important in Science",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "/images/blog/blog2.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "The latest trends in Graphic design according to you?",
+        "designation": "Zachary Navea",
+        "date": "States of Matter",
+        "title": "Solids, Liquids, and Gases Around Me",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "/images/blog/blog3.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
+        "designation": "Zachary Navea",
+        "date": "STEM Student",
+        "title": "How Science Helps Me Understand the World",
         "href": "/blog/blog-details"
       }
     ]
@@ -429,14 +326,14 @@
     "sliderSetting": {
       "infinite": true,
       "speed": 500,
-      "slidesToShow": 3,
+      "slidesToShow": 1,
       "slidesToScroll": 1,
       "arrows": false,
       "responsive": [
         {
           "breakpoint": 991,
           "settings": {
-            "slidesToShow": 2,
+            "slidesToShow": 1,
             "autoplay": true
           }
         },
@@ -452,106 +349,76 @@
     "informations": [
       {
         "imgLink": "/images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "/images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "/images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "/images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "/images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "/images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "title": "Science Reflection",
+        "designation": "Matter, Measurement, and Atomic Theory",
+        "text": "After learning about matter, measurement, atomic theory, and fundamental particles, I realized that everything around me is made up of tiny particles that are too small to see with the naked eye. I learned that matter is not only about objects we can touch, but also about the particles that make up those objects. Measurement is important because it helps us describe matter accurately using numbers and units. Atomic theory helped me understand that atoms are the building blocks of matter. I also realized that fundamental particles, such as protons, neutrons, and electrons, are important in understanding how atoms behave. This lesson made me appreciate science more because it explains many things that happen in everyday life. I now understand that even simple things like notebooks, pens, and air have scientific explanations behind them. Learning these topics showed me that science is connected to the real world. It also helped me become more curious about how matter works and how everything in the universe is formed."
       }
     ]
   },
   "resumeData": {
-    "experienceTitle": "Experience",
+    "experienceTitle": "Learning Experience",
     "experience": [
       {
-        "title": "Senior UX/UI Designer",
-        "duration": "Jan 2020 - Present",
-        "subTitle": "Bergnaum, Hills and Howe",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Science Portfolio",
+        "duration": "2026",
+        "subTitle": "Matter in My Life",
+        "text": "I learned how everyday objects demonstrate the concept of matter through their physical properties and states. This activity helped me connect science lessons to real-life examples."
       },
       {
-        "title": "Product Designer",
-        "duration": "Jan 2016 - December 2019",
-        "subTitle": "Langosh, Sipes and Raynor",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Coding Practice",
+        "duration": "2026",
+        "subTitle": "Technology and Creativity",
+        "text": "Coding helps me develop creativity, patience, and logical thinking. It allows me to create useful projects while improving my problem-solving skills."
       },
       {
-        "title": "UI/UX Designer",
-        "duration": "Jan 2014 - December 2015",
-        "subTitle": "Strosin, Maggio and Homenick",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Problem-Solving Activities",
+        "duration": "2026",
+        "subTitle": "STEM Learning",
+        "text": "As a STEM student, I practice solving problems by analyzing situations, thinking carefully, and finding possible solutions."
       }
     ],
     "educationTitle": "Education",
     "education": [
       {
-        "title": "Master of Computer Science",
-        "duration": "2015 - 2016",
-        "subTitle": "University of XYZ",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Senior High School",
+        "duration": "2026 - Present",
+        "subTitle": "Calamba Institute",
+        "text": "I am currently studying under the STEM strand, where I learn subjects related to science, technology, engineering, and mathematics."
       },
       {
-        "title": "Bachelor of Computer Science",
-        "duration": "2010 - 2014",
-        "subTitle": "University of ABC",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "STEM Strand",
+        "duration": "Grade 12",
+        "subTitle": "12 - Cirrus",
+        "text": "My strand helps me improve my understanding of science, technology, and problem solving."
       },
       {
-        "title": "Diploma in Computer Science",
-        "duration": "2006 - 2010",
-        "subTitle": "XYZ Institution",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Academic Interest",
+        "duration": "Present",
+        "subTitle": "Coding and Science",
+        "text": "I am interested in coding, technology, and learning how scientific concepts are connected to everyday life."
       }
     ]
   },
   "contactData": {
     "formTitle": "Just say Hello",
     "title": "Contact Info",
-    "subTitle": "Visite my social profile and get connected",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+    "subTitle": "Visit my social profile and get connected",
+    "text": "Thank you for visiting my science portfolio. This portfolio shows who I am as a STEM student and how I understand the concept of matter in my daily life."
   },
   "socialData": [
     {
-      "icon": "dribbble",
-      "title": "Dribbble",
+      "icon": "github",
+      "title": "GitHub",
       "link": "/"
     },
     {
-      "icon": "behance",
-      "title": "Behance",
+      "icon": "facebook",
+      "title": "Facebook",
       "link": "/"
     },
     {
-      "icon": "twitter",
-      "title": "Twitter",
+      "icon": "instagram",
+      "title": "Instagram",
       "link": "/"
     },
     {
